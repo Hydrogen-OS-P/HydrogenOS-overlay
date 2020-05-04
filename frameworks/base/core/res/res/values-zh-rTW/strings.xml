@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tethered_notification_multi_device_message">%1$s 個已連線裝置</string>
+    <string name="tethered_notification_no_device_message">沒有已連線裝置</string>
+    <string name="tethered_notification_one_device_message">%1$s 個已連線裝置</string>
+</resources>
+    

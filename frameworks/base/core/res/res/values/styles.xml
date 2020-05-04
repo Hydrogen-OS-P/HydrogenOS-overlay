@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeviceDefault.Resolver.Black" parent="@style/Theme.Material">
+        <item name="colorBackground">#ff303030</item>
+        <item name="windowBackground">@color/transparent</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowIsTranslucent">true</item>
+        <item name="windowContentOverlay">@null</item>
+        <item name="backgroundDimEnabled">true</item>
+        <item name="listPreferredItemPaddingStart">?dialogPreferredPadding</item>
+        <item name="listPreferredItemPaddingEnd">?dialogPreferredPadding</item>
+        <item name="colorControlActivated">?colorControlHighlight</item>
+        <item name="statusBarColor">@color/transparent</item>
+    </style>
+</resources>

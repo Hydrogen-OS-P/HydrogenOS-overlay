@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tethered_notification_message">点按即可进行设置。</string>
+    <string name="tethered_notification_multi_device_message">%1$s个设备已连接。</string>
+    <string name="tethered_notification_no_device_message">当前无设备连接。</string>
+    <string name="tethered_notification_one_device_message">%1$s个设备已连接。</string>
+</resources>
+

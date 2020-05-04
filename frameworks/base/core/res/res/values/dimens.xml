@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zzz_op_cc_alert_dlg_title_height">73.0dip</dimen>
+    <dimen name="zzz_op_cc_icon_size_display2">48.0dip</dimen>
+    <dimen name="zzz_op_cc_list_item_height_one_line1">55.0dip</dimen>
+    <dimen name="zzz_op_cc_margin_bottom1">9.0dip</dimen>
+    <dimen name="zzz_op_cc_margin_left2">18.0dip</dimen>
+    <dimen name="zzz_op_cc_margin_right2">18.0dip</dimen>
+    <dimen name="zzz_op_cc_margin_text_bottom2">16.0dip</dimen>
+    <dimen name="zzz_op_cc_margin_text_left4">18.0dip</dimen>
+    <dimen name="zzz_op_cc_margin_top2">18.0dip</dimen>
+</resources>
