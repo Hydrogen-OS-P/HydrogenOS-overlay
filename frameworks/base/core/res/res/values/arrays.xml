@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="config_dynamicHysteresisBrightLevels">
+<add-resource type="integer-array" name="config_dynamicHysteresisBrightLevels">
         <item>200</item>
         <item>200</item>
         <item>200</item>
@@ -17,8 +17,8 @@
         <item>300</item>
         <item>300</item>
         <item>400</item>
-    </integer-array>
-    <integer-array name="config_dynamicHysteresisDarkLevels">
+        </add-resource>
+<add-resource type="integer-array" name="config_dynamicHysteresisDarkLevels">
         <item>200</item>
         <item>200</item>
         <item>200</item>
@@ -35,8 +35,8 @@
         <item>400</item>
         <item>400</item>
         <item>500</item>
-    </integer-array>
-    <integer-array name="config_dynamicHysteresisLuxLevels">
+         </add-resource>
+<add-resource type="integer-array" name="config_dynamicHysteresisLuxLevels">
         <item>1</item>
         <item>4</item>
         <item>12</item>
@@ -52,8 +52,8 @@
         <item>2000</item>
         <item>3300</item>
         <item>6000</item>
-    </integer-array>
-   <integer-array name="config_screenBrightnessBacklight">
+        </add-resource>
+<add-resource type="integer-array " name="config_screenBrightnessBacklight">
         <item>2</item>
         <item>4</item>
         <item>6</item>
@@ -124,8 +124,8 @@
         <item>980</item>
         <item>1000</item>
         <item>1023</item>
-    </integer-array>
-    <integer-array name="config_screenBrightnessBacklight_255">
+    </add-resource>
+<add-resource type="integer-array" name="config_screenBrightnessBacklight_255">
         <item>2</item>
         <item>3</item>
         <item>4</item>
@@ -196,8 +196,8 @@
         <item>245</item>
         <item>250</item>
         <item>255</item>
-    </integer-array>
-    <array name="config_screenBrightnessNits">
+    </add-resource>
+<add-resource type="array" name="config_screenBrightnessNits">
         <item>2.0482</item>
         <item>2.543</item>
         <item>3.0253</item>
@@ -268,5 +268,5 @@
         <item>421.264</item>
         <item>424.646</item>
         <item>427.6287</item>
-    </array>
+    </add-resource> 
 </resources>

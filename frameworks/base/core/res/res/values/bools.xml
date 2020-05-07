@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="config_dozeAfterScreenOff">true</bool>
-    <bool name="config_dual_LTE_capability">false</bool>
-    <bool name="config_emergencyCallOnPowerkeyTapGestureEnabled">false</bool>
-    <bool name="config_wifi_dual_sap_mode_enabled">false</bool>
+<add-resource type="bool" name="config_dozeAfterScreenOff">true</add-resource>
+<add-resource type="bool" name="config_dual_LTE_capability">false</add-resource>
+<add-resource type="bool" name="config_emergencyCallOnPowerkeyTapGestureEnabled">false</add-resource>
+<add-resource type="bool" name="config_wifi_dual_sap_mode_enabled">false</add-resource>
 </resources>

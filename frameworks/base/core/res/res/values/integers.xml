@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="config_brightness_ramp_rate_fast_1023">400</integer>
-    <integer name="config_screenBrightnessSettingDefault">102</integer>
-    <integer name="config_screenBrightnessSettingDefault_1023">184</integer>
-    <integer name="config_screenBrightnessSettingMaximum_1023">1023</integer>
-    <integer name="config_screenBrightnessSettingMaximum_255">255</integer>
-    <integer name="config_sms_authorization_timeout_ms">0</integer>
-    <integer name="config_wifi_wakeup_available">0</integer>
+    <add-resource type="integer" name="config_brightness_ramp_rate_fast_1023">400</add-resource>
+    <add-resource type="integer" name="config_screenBrightnessSettingDefault">102</add-resource>
+    <add-resource type="integer" name="config_screenBrightnessSettingDefault_1023">184</add-resource>
+    <add-resource type="integer" name="config_screenBrightnessSettingMaximum_1023">1023</add-resource>
+    <add-resource type="integer" name="config_screenBrightnessSettingMaximum_255">255</add-resource>
+    <add-resource type="integer" name="config_sms_authorization_timeout_ms">0</add-resource>
+    <add-resource type="integer" name="config_wifi_wakeup_available">0</add-resource>
 </resources>

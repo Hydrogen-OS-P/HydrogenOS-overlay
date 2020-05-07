@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_carrierPackage_1">NOPACK</string>
-    <string name="config_carrierPackage_2">NOPACK</string>
-    <string name="config_carrierPackage_3">NOPACK</string>
-    <string name="config_carrierPackage_4">NOPACK</string>
-    <string name="notification_channel_hotspot">Wi-Fi Hotspot notification</string>
-    <string name="status_bar_networkspeed">networkspeed</string>
-    <string name="status_bar_volte">volte</string>
-    <string name="status_bar_vowifi">vowifi</string>
+    <add-resource type="string" name="config_carrierPackage_1">NOPACK</add-resource>
+    <add-resource type="string" name="config_carrierPackage_2">NOPACK</add-resource>
+    <add-resource type="string" name="config_carrierPackage_3">NOPACK</add-resource>
+    <add-resource type="string" name="config_carrierPackage_4">NOPACK</add-resource>
+    <add-resource type="string" name="notification_channel_hotspot">Wi-Fi Hotspot notification</add-resource>
+    <add-resource type="string" name="status_bar_networkspeed">networkspeed</add-resource>
+    <add-resource type="string" name="status_bar_volte">volte</add-resource>
+    <add-resource type="string" name="status_bar_vowifi">vowifi</add-resource>
 </resources>
